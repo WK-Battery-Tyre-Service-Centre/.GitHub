@@ -1,3 +1,5 @@
+[![WK Brand](/profile/banner.svg)](https://github.com/WK-Battery-Tyre-Service-Centre)
+
 # WK Battery & Service Centre - Software Division
 
 Welcome to the WK Battery & Service Centre software division's GitHub platform.
